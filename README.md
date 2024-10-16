@@ -19,7 +19,7 @@
 4. The converted value is displayed instantly.
 
 ## Live Demo
-[Link to the live demo](#)
+[Link to the live demo]((https://amitj10.github.io/Currency-Exchange-rate/))
 
 ## API Used
 - [FreeCurrencyAPI](https://freecurrencyapi.com)
